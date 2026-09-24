@@ -17,10 +17,10 @@ It was built to be a lightweight and simple music production program while still
 - Project saving and loading
 - Audio export
 - Python plugin system
+And many more I've probably forgotten
 
-## Running OpenDAW
+ ## Source Code
+ The complete OpenDAW source code is available in the repository
 
-Install the requirements:
-
-```bash
-pip install -r requirements.txt
+ ## Windows Executable 
+ A ready to run windows exe is available in the github releases place
