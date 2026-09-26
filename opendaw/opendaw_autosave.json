@@ -1,0 +1,51 @@
+{
+  "master_volume": 100.0,
+  "bpm": 120,
+  "tracks": [
+    {
+      "file_path": "C:/Users/sriha/Downloads/recordings/piano_roll_20260831_213144.wav",
+      "name": "piano_roll_20260831_213144.wav",
+      "volume": 1.0,
+      "muted": false,
+      "solo": false,
+      "pan": 0.0,
+      "trim_start": 0,
+      "trim_end": 220500,
+      "color": "#ff4d6d",
+      "start_frame": 0,
+      "fade_in": 0.0,
+      "fade_out": 0.0,
+      "effects": {
+        "gain": 0.0,
+        "delay": 0.0,
+        "delay_time": 0.25,
+        "reverb": 0.0,
+        "distortion": 0.0,
+        "compressor": 0.0,
+        "lowpass": 20000.0,
+        "highpass": 20.0
+      }
+    }
+  ],
+  "piano_notes": [],
+  "piano_instrument": "Piano",
+  "drum_pattern": {
+    "Kick": [],
+    "Snare": [],
+    "Closed Hat": [],
+    "Open Hat": [],
+    "Clap": []
+  },
+  "loop_enabled": false,
+  "loop_start": 0,
+  "loop_end": 170400,
+  "markers": [],
+  "master_fx": {
+    "low": 0.0,
+    "mid": 0.0,
+    "high": 0.0,
+    "compressor": 0.0,
+    "limiter": 0.85,
+    "saturation": 0.0
+  }
+}
